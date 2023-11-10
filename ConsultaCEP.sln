@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectAPI", "ConnectAPI.csproj", "{62804BDC-A5CD-4DFC-A98B-800588613DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62804BDC-A5CD-4DFC-A98B-800588613DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62804BDC-A5CD-4DFC-A98B-800588613DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62804BDC-A5CD-4DFC-A98B-800588613DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62804BDC-A5CD-4DFC-A98B-800588613DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E3D433-F9BC-48EE-B52F-DE2DB76B0039}
+	EndGlobalSection
+EndGlobal

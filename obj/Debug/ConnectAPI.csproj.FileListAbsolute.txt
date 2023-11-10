@@ -1,0 +1,10 @@
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\bin\Debug\ConnectAPI.exe.config
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\bin\Debug\ConnectAPI.exe
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\bin\Debug\ConnectAPI.pdb
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\obj\Debug\ConnectAPI.csproj.AssemblyReference.cache
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\obj\Debug\ConnectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\obj\Debug\ConnectAPI.exe
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\obj\Debug\ConnectAPI.pdb
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Athos2\Desktop\Projetos\ConnectAPI\obj\Debug\ConnectAPI.csproj.CopyComplete
